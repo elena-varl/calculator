@@ -28,4 +28,5 @@ interface Calculator {
 
     // Clear entire calculator state
     fun reset()
+    fun back()
 }
